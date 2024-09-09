@@ -7,6 +7,8 @@ Welcome to my GitHub profile! I'm Efe AYDINALP, a passionate computer engineerin
 - **Core Competencies**: Object-Oriented Programming (OOP), Algorithms, Data Structures
 - **Project Management**: Strategic Planning, Team Collaboration, Agile Methodologies
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EfeAydinalp&exclude_repo=Character-Analysis-with-kNN-Algorithm,Character-Analysis-with-kNN-Algorithm&layout=compact&theme=radical)
+
 ### 🚀 What I Do:
 I thrive on solving complex problems with elegant code. Whether it's developing real-time systems, creating sophisticated simulations, or designing scalable software architectures, I bring a blend of technical expertise and innovative thinking to every project.
 
